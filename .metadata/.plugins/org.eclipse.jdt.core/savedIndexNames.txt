@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\Usuário\Desktop\GADGETS\maven-alura\.metadata\.plugins\org.eclipse.jdt.core
+1939303675.index
+1233008787.index
+3231789343.index
+2559398957.index
+1865797976.index
+4044757637.index
+2362642792.index
+1022141956.index
